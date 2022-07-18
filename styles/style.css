@@ -39,6 +39,10 @@ nav {
   width: 40px;
 }
 
+.logo a {
+  text-decoration: none;
+}
+
 .logo h2 {
   color: #fff;
   margin-left: 10px;
@@ -64,6 +68,10 @@ nav {
   text-decoration: none;
   color: #fff;
   font-weight: 400;
+}
+
+.menu img {
+  cursor: pointer;
 }
 /* header end */
 
